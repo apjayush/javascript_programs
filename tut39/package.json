@@ -1,0 +1,20 @@
+{
+  "name": "tut39",
+  "version": "1.0.1",
+  "description": "This is the best package ever created ",
+  "main": "tut39.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fantastic"
+  ],
+  "author": "Aryan",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

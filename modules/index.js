@@ -1,0 +1,5 @@
+const mod = require('./mod.js')
+// console.log(mod.avg([2,4]))
+console.log(mod.name)
+// console.log(mod([3,4,5]))
+console.log('This is index.js')
